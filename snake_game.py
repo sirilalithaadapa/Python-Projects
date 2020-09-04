@@ -1,4 +1,9 @@
-
+Rules:
+   The game consists of a snake and food displayed on random position.
+   Our aim is to make snake eat the food and grow it as big as possible.
+   The food is displayed in red colour at random position.
+   Each time snake eats food score increases by 10 and the body of the snake grows by one segment.
+   The game ends if the snake head touches its own body or hits the sides of the window.
 import turtle
 
 import time
