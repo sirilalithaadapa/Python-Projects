@@ -1,7 +1,3 @@
-# Python Mini Projects
-
-Snake_game.py
-
-diceroller.py
-
-snakeladder.py
+# Python Workouts :
+          2nd sem lab programs
+          Python Mini Projects
