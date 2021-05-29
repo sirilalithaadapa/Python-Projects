@@ -30,3 +30,8 @@
 * [Video Downloader](https://github.com/sirilalithaadapa/Python-Projects/tree/master/Video%20Downloader)
 * [Website Blocker](https://github.com/sirilalithaadapa/Python-Projects/tree/master/Website%20Blocker)
 * [Whatsapp Automation](https://github.com/sirilalithaadapa/Python-Projects/tree/master/Whatsapp%20Automation)
+* [Face_Mask_detection](https://github.com/sirilalithaadapa/Python-Projects/blob/master/Face_Mask_detection/mask_detection.py)
+* [Weather](https://github.com/sirilalithaadapa/Python-Projects/blob/master/Weather/weather.py)
+* [spotifyAccount](https://github.com/sirilalithaadapa/Python-Projects/blob/master/spotifyAccount/spotifyAccount.py)
+* [whatsapp-monitor](https://github.com/sirilalithaadapa/Python-Projects/blob/master/whatsapp-monitor/whatsapp-monitor.py)
+* [wikipedia](https://github.com/sirilalithaadapa/Python-Projects/blob/master/wikipedia/wikipedia.py)
