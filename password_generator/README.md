@@ -1,6 +1,6 @@
 
 
-What will be covered in this Blog:
+What will be covered in this project:
 ==========================
 ```
 1. What is Password
