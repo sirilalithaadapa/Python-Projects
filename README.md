@@ -34,4 +34,5 @@
 * [Weather](https://github.com/sirilalithaadapa/Python-Projects/blob/master/Weather/weather.py)
 * [spotifyAccount](https://github.com/sirilalithaadapa/Python-Projects/blob/master/spotifyAccount/spotifyAccount.py)
 * [whatsapp-monitor](https://github.com/sirilalithaadapa/Python-Projects/blob/master/whatsapp-monitor/whatsapp-monitor.py)
+* [Password_Genrator](https://github.com/sirilalithaadapa/Python-Projects/tree/master/password_generator)
 * [wikipedia](https://github.com/sirilalithaadapa/Python-Projects/blob/master/wikipedia/wikipedia.py)
