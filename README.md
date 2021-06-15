@@ -36,3 +36,5 @@
 * [whatsapp-monitor](https://github.com/sirilalithaadapa/Python-Projects/blob/master/whatsapp-monitor/whatsapp-monitor.py)
 * [Password_Genrator](https://github.com/sirilalithaadapa/Python-Projects/tree/master/password_generator)
 * [wikipedia](https://github.com/sirilalithaadapa/Python-Projects/blob/master/wikipedia/wikipedia.py)
+* [Download GeeksForGeeks Articles](https://github.com/sirilalithaadapa/Python-Projects/tree/master/download%20GeeksForGeeks%20articles)
+* [Fetch HTTP status code](https://github.com/sirilalithaadapa/Python-Projects/tree/master/Fetch%20HTTP%20status%20code)
