@@ -1,5 +1,5 @@
 # Hey Folks 👋 , Hope all are doing good . 
-         This Repo Contains all my PYTHON PROJECTS which i have been learning from various websites,resources,books and etc... 
+    This Repo Contains all my PYTHON PROJECTS which i have been learning from various websites,resources,books and etc... 
  
  Feel Free to 
  Fork,star it 🌟 
